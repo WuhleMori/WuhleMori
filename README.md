@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WuhleMori
 - 👀 I’m interested in many things :p 
-- 🌱 I’m currently learning programming in java.
+- 🌱 I’m currently learning programming in JS.  
 - 💞️ I am looking forward to studying computer science. 
 - 📫 Im not so interested in contact but Dm me if this exist on github. ^^
 
